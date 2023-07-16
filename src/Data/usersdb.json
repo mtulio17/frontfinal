@@ -1,0 +1,51 @@
+{
+    "users":[{
+        "id": 2,
+        "name": "Alvaro",  
+        "cuit":12345678912,   
+        "address":"8 seaway",  
+        "phone":431988888,
+        "email": "alvaro.gamez@example.com",
+          "cc":true,
+          "cs":true,
+          "ca":true,
+          "cu":true
+      },
+      {
+        "id": 3,
+        "name": "Saheli",   
+        "cuit":12345678912,
+        "address":"9 seaway",  
+        "phone":431988888,
+        "email": "saheli.thampy@example.com",
+          "cc":false,
+          "cs":true,
+          "ca":false,
+          "cu":true
+      },
+      {
+        "id": 4,
+        "name": "Abdulkadir",
+        "cuit":12345678912,
+        "address":"5 seaway",  
+        "phone":431988888,
+        "email": "abdulkadir.klooster@example.com",
+          "cc":true,
+          "cs":true,
+          "ca":true,
+          "cu":false 
+      },
+      {
+        "id": 5,
+        "name": "Abdulkadir",
+        "cuit":12345678912,
+        "address":"7 seaway",
+        "phone":431988888,
+        "email": "abdulkadir.klooster@example.com",
+          "cc":true,
+          "cs":false,
+          "ca":false,
+          "cu":true
+      }
+    ]
+}

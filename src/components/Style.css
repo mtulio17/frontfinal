@@ -1,0 +1,22 @@
+.formClient{
+    
+}
+p{
+    margin:0px 0px 0px 0px;
+    color: red;
+    /* padding-top: 8px; */
+}
+h5{
+    padding-top: 10px;
+}
+label{
+    padding: 0px 8px 10px 10px;
+}
+input{
+    padding-left: 16px;
+}
+.form{
+    margin-top: 50px;
+    margin-bottom: 50px;
+ 
+}
